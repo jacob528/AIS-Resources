@@ -1,4 +1,4 @@
-# 3Brown1Blue Video 2
+# 3Blue1Brown Video 2
 
 ## Training a Network:
 
