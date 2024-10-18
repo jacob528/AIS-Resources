@@ -1,3 +1,2 @@
 # Ignore large files
-venv-setup/ais/Lib/site-packages/torch/lib/torch_cpu.dll
-venv-setup/ais/Lib/site-packages/torch/lib/dnnl.lib
+venv-setup/
